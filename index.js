@@ -12,7 +12,7 @@ let data=[{
   question:"How Many times chennai has won ipl?",
   option1:"Three time",
   option2:"Five Time",
-  option3:"Two Time",
+  option3:"six time",
   answer:"Cooking"
 },
 {
